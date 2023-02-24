@@ -1,0 +1,52 @@
+﻿<Application x:Class="kargo.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:kargo"
+             xmlns:View ="clr-namespace:kargo.View"
+             xmlns:ViewModel ="clr-namespace:kargo.ViewModel"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+            <ResourceDictionary>
+            <DataTemplate DataType="{x:Type ViewModel:DeclareWindowViewModel}">
+                <View:DeclareWindow></View:DeclareWindow>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type ViewModel:EnteringWindowViewModel}">
+                <View:EnteringWindow></View:EnteringWindow>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type ViewModel:MainWindowViewModel}">
+                <local:MainWindow></local:MainWindow>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type ViewModel:OrderWindowViewModel}">
+                <View:OrderWindow></View:OrderWindow>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type ViewModel:RegistrationWindowViewModel}">
+                <View:RegistrationWindow></View:RegistrationWindow>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type ViewModel:UserMainWindowViewModel}">
+                <View:UserMainWindow></View:UserMainWindow>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type ViewModel:UserSettingsWindowViewModel}">
+                <View:UserSettingsWindow></View:UserSettingsWindow>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type ViewModel:AdminPanelViewModel}">
+                <View:AdminPanelView></View:AdminPanelView>
+            </DataTemplate>
+                
+                
+            <ResourceDictionary.MergedDictionaries>
+
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Light.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Primary/MaterialDesignColor.DeepPurple.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Accent/MaterialDesignColor.Lime.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+
+        </ResourceDictionary>
+        
+
+
+
+
+    </Application.Resources>
+</Application>
+    

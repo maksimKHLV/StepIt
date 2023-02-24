@@ -1,0 +1,294 @@
+C:\Users\Hali_gy77\source\repos\kargo\kargo\bin\Debug\net6.0-windows\kargo.exe
+C:\Users\Hali_gy77\source\repos\kargo\kargo\bin\Debug\net6.0-windows\kargo.deps.json
+C:\Users\Hali_gy77\source\repos\kargo\kargo\bin\Debug\net6.0-windows\kargo.runtimeconfig.json
+C:\Users\Hali_gy77\source\repos\kargo\kargo\bin\Debug\net6.0-windows\kargo.dll
+C:\Users\Hali_gy77\source\repos\kargo\kargo\bin\Debug\net6.0-windows\kargo.pdb
+C:\Users\Hali_gy77\source\repos\kargo\kargo\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Hali_gy77\source\repos\kargo\kargo\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Hali_gy77\source\repos\kargo\kargo\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\Hali_gy77\source\repos\kargo\kargo\bin\Debug\net6.0-windows\SimpleInjector.dll
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\kargo.csproj.AssemblyReference.cache
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\View\DeclareWindow.g.cs
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\View\EnteringWindow.g.cs
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\View\OrderWindow.g.cs
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\View\RegistrationWindow.g.cs
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\View\UserMainWindow.g.cs
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\View\UserSettingsWindow.g.cs
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\kargo_MarkupCompile.cache
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\kargo_MarkupCompile.lref
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\App.baml
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\View\DeclareWindow.baml
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\View\EnteringWindow.baml
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\View\OrderWindow.baml
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\View\RegistrationWindow.baml
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\View\UserMainWindow.baml
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\View\UserSettingsWindow.baml
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\kargo.g.resources
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\kargo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\kargo.AssemblyInfoInputs.cache
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\kargo.AssemblyInfo.cs
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\kargo.csproj.CoreCompileInputs.cache
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\kargo.csproj.Fody.CopyLocal.cache
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\kargo.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\kargo.csproj.CopyComplete
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\kargo.dll
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\refint\kargo.dll
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\kargo.pdb
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\kargo.genruntimeconfig.cache
+C:\Users\Hali_gy77\source\repos\kargo\kargo\obj\Debug\net6.0-windows\ref\kargo.dll
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\kargo.csproj.AssemblyReference.cache
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\View\DeclareWindow.g.cs
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\View\EnteringWindow.g.cs
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\View\OrderWindow.g.cs
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\View\RegistrationWindow.g.cs
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\View\UserMainWindow.g.cs
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\View\UserSettingsWindow.g.cs
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\kargo_MarkupCompile.cache
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\kargo_MarkupCompile.lref
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\kargo.dll
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\refint\kargo.dll
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\kargo.pdb
+C:\Users\Hali_gy77\Desktop\kargo\bin\Debug\net6.0-windows\kargo.exe
+C:\Users\Hali_gy77\Desktop\kargo\bin\Debug\net6.0-windows\kargo.deps.json
+C:\Users\Hali_gy77\Desktop\kargo\bin\Debug\net6.0-windows\kargo.runtimeconfig.json
+C:\Users\Hali_gy77\Desktop\kargo\bin\Debug\net6.0-windows\kargo.dll
+C:\Users\Hali_gy77\Desktop\kargo\bin\Debug\net6.0-windows\kargo.pdb
+C:\Users\Hali_gy77\Desktop\kargo\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Hali_gy77\Desktop\kargo\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Hali_gy77\Desktop\kargo\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\Hali_gy77\Desktop\kargo\bin\Debug\net6.0-windows\SimpleInjector.dll
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\App.baml
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\View\DeclareWindow.baml
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\View\EnteringWindow.baml
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\View\OrderWindow.baml
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\View\RegistrationWindow.baml
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\View\UserMainWindow.baml
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\View\UserSettingsWindow.baml
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\kargo.g.resources
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\kargo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\kargo.AssemblyInfoInputs.cache
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\kargo.AssemblyInfo.cs
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\kargo.csproj.CoreCompileInputs.cache
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\kargo.csproj.Fody.CopyLocal.cache
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\kargo.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\kargo.csproj.CopyComplete
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\kargo.genruntimeconfig.cache
+C:\Users\Hali_gy77\Desktop\kargo\obj\Debug\net6.0-windows\ref\kargo.dll
+C:\Users\maksi\Desktop\Desktop (1)\kargo\bin\Debug\net6.0-windows\kargo.exe
+C:\Users\maksi\Desktop\Desktop (1)\kargo\bin\Debug\net6.0-windows\kargo.deps.json
+C:\Users\maksi\Desktop\Desktop (1)\kargo\bin\Debug\net6.0-windows\kargo.runtimeconfig.json
+C:\Users\maksi\Desktop\Desktop (1)\kargo\bin\Debug\net6.0-windows\kargo.dll
+C:\Users\maksi\Desktop\Desktop (1)\kargo\bin\Debug\net6.0-windows\kargo.pdb
+C:\Users\maksi\Desktop\Desktop (1)\kargo\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\maksi\Desktop\Desktop (1)\kargo\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\maksi\Desktop\Desktop (1)\kargo\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\maksi\Desktop\Desktop (1)\kargo\bin\Debug\net6.0-windows\SimpleInjector.dll
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\kargo.csproj.AssemblyReference.cache
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\View\DeclareWindow.g.cs
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\View\EnteringWindow.g.cs
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\View\OrderWindow.g.cs
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\View\RegistrationWindow.g.cs
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\View\UserMainWindow.g.cs
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\View\UserSettingsWindow.g.cs
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\kargo_MarkupCompile.cache
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\kargo_MarkupCompile.lref
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\App.baml
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\View\DeclareWindow.baml
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\View\EnteringWindow.baml
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\View\OrderWindow.baml
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\View\RegistrationWindow.baml
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\View\UserMainWindow.baml
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\View\UserSettingsWindow.baml
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\kargo.g.resources
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\kargo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\kargo.AssemblyInfoInputs.cache
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\kargo.AssemblyInfo.cs
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\kargo.csproj.CoreCompileInputs.cache
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\kargo.csproj.Fody.CopyLocal.cache
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\kargo.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\kargo.csproj.CopyComplete
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\kargo.dll
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\refint\kargo.dll
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\kargo.pdb
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\kargo.genruntimeconfig.cache
+C:\Users\maksi\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\ref\kargo.dll
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\bin\Debug\net6.0-windows\kargo.exe
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\bin\Debug\net6.0-windows\kargo.deps.json
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\bin\Debug\net6.0-windows\kargo.runtimeconfig.json
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\bin\Debug\net6.0-windows\kargo.dll
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\bin\Debug\net6.0-windows\kargo.pdb
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\bin\Debug\net6.0-windows\SimpleInjector.dll
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\kargo.csproj.AssemblyReference.cache
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\View\DeclareWindow.g.cs
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\View\EnteringWindow.g.cs
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\View\OrderWindow.g.cs
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\View\RegistrationWindow.g.cs
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\View\UserMainWindow.g.cs
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\View\UserSettingsWindow.g.cs
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\kargo_MarkupCompile.cache
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\kargo_MarkupCompile.lref
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\App.baml
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\View\DeclareWindow.baml
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\View\EnteringWindow.baml
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\View\OrderWindow.baml
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\View\RegistrationWindow.baml
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\View\UserMainWindow.baml
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\View\UserSettingsWindow.baml
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\kargo.g.resources
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\kargo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\kargo.AssemblyInfoInputs.cache
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\kargo.AssemblyInfo.cs
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\kargo.csproj.CoreCompileInputs.cache
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\kargo.csproj.Fody.CopyLocal.cache
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\kargo.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\kargo.csproj.CopyComplete
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\kargo.dll
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\refint\kargo.dll
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\kargo.pdb
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\kargo.genruntimeconfig.cache
+C:\Users\Hali_gy77\Desktop\Desktop (1)\kargo\obj\Debug\net6.0-windows\ref\kargo.dll
+C:\Users\maksi\Desktop\kargo\bin\Debug\net6.0-windows\kargo.exe
+C:\Users\maksi\Desktop\kargo\bin\Debug\net6.0-windows\kargo.deps.json
+C:\Users\maksi\Desktop\kargo\bin\Debug\net6.0-windows\kargo.runtimeconfig.json
+C:\Users\maksi\Desktop\kargo\bin\Debug\net6.0-windows\kargo.dll
+C:\Users\maksi\Desktop\kargo\bin\Debug\net6.0-windows\kargo.pdb
+C:\Users\maksi\Desktop\kargo\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\maksi\Desktop\kargo\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\maksi\Desktop\kargo\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\maksi\Desktop\kargo\bin\Debug\net6.0-windows\SimpleInjector.dll
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\kargo.csproj.AssemblyReference.cache
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\View\DeclareWindow.g.cs
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\View\EnteringWindow.g.cs
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\View\OrderWindow.g.cs
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\View\RegistrationWindow.g.cs
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\View\UserMainWindow.g.cs
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\View\UserSettingsWindow.g.cs
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\kargo_MarkupCompile.cache
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\kargo_MarkupCompile.lref
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\App.baml
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\View\DeclareWindow.baml
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\View\EnteringWindow.baml
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\View\OrderWindow.baml
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\View\RegistrationWindow.baml
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\View\UserMainWindow.baml
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\View\UserSettingsWindow.baml
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\kargo.g.resources
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\kargo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\kargo.AssemblyInfoInputs.cache
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\kargo.AssemblyInfo.cs
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\kargo.csproj.CoreCompileInputs.cache
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\kargo.csproj.Fody.CopyLocal.cache
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\kargo.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\kargo.csproj.CopyComplete
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\kargo.dll
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\refint\kargo.dll
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\kargo.pdb
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\kargo.genruntimeconfig.cache
+C:\Users\maksi\Desktop\kargo\obj\Debug\net6.0-windows\ref\kargo.dll
+C:\Users\maksi\Desktop\kargo35\kargo\bin\Debug\net6.0-windows\kargo.exe
+C:\Users\maksi\Desktop\kargo35\kargo\bin\Debug\net6.0-windows\kargo.deps.json
+C:\Users\maksi\Desktop\kargo35\kargo\bin\Debug\net6.0-windows\kargo.runtimeconfig.json
+C:\Users\maksi\Desktop\kargo35\kargo\bin\Debug\net6.0-windows\kargo.dll
+C:\Users\maksi\Desktop\kargo35\kargo\bin\Debug\net6.0-windows\kargo.pdb
+C:\Users\maksi\Desktop\kargo35\kargo\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\maksi\Desktop\kargo35\kargo\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\maksi\Desktop\kargo35\kargo\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\maksi\Desktop\kargo35\kargo\bin\Debug\net6.0-windows\SimpleInjector.dll
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\kargo.csproj.AssemblyReference.cache
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\View\DeclareWindow.g.cs
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\View\EnteringWindow.g.cs
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\View\OrderWindow.g.cs
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\View\RegistrationWindow.g.cs
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\View\UserMainWindow.g.cs
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\View\UserSettingsWindow.g.cs
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\kargo_MarkupCompile.cache
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\kargo_MarkupCompile.lref
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\App.baml
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\View\DeclareWindow.baml
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\View\EnteringWindow.baml
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\View\OrderWindow.baml
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\View\RegistrationWindow.baml
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\View\UserMainWindow.baml
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\View\UserSettingsWindow.baml
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\kargo.g.resources
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\kargo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\kargo.AssemblyInfoInputs.cache
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\kargo.AssemblyInfo.cs
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\kargo.csproj.CoreCompileInputs.cache
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\kargo.csproj.Fody.CopyLocal.cache
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\kargo.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\kargo.csproj.CopyComplete
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\kargo.dll
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\refint\kargo.dll
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\kargo.pdb
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\kargo.genruntimeconfig.cache
+C:\Users\maksi\Desktop\kargo35\kargo\obj\Debug\net6.0-windows\ref\kargo.dll
+D:\kargo\kargo\bin\Debug\net6.0-windows\kargo.exe
+D:\kargo\kargo\bin\Debug\net6.0-windows\kargo.deps.json
+D:\kargo\kargo\bin\Debug\net6.0-windows\kargo.runtimeconfig.json
+D:\kargo\kargo\bin\Debug\net6.0-windows\kargo.dll
+D:\kargo\kargo\bin\Debug\net6.0-windows\kargo.pdb
+D:\kargo\kargo\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\kargo\kargo\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\kargo\kargo\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.dll
+D:\kargo\kargo\bin\Debug\net6.0-windows\SimpleInjector.dll
+D:\kargo\kargo\obj\Debug\net6.0-windows\kargo.csproj.AssemblyReference.cache
+D:\kargo\kargo\obj\Debug\net6.0-windows\View\DeclareWindow.g.cs
+D:\kargo\kargo\obj\Debug\net6.0-windows\View\EnteringWindow.g.cs
+D:\kargo\kargo\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+D:\kargo\kargo\obj\Debug\net6.0-windows\View\OrderWindow.g.cs
+D:\kargo\kargo\obj\Debug\net6.0-windows\View\RegistrationWindow.g.cs
+D:\kargo\kargo\obj\Debug\net6.0-windows\View\UserMainWindow.g.cs
+D:\kargo\kargo\obj\Debug\net6.0-windows\View\UserSettingsWindow.g.cs
+D:\kargo\kargo\obj\Debug\net6.0-windows\App.g.cs
+D:\kargo\kargo\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\kargo\kargo\obj\Debug\net6.0-windows\kargo_MarkupCompile.cache
+D:\kargo\kargo\obj\Debug\net6.0-windows\kargo_MarkupCompile.lref
+D:\kargo\kargo\obj\Debug\net6.0-windows\App.baml
+D:\kargo\kargo\obj\Debug\net6.0-windows\View\DeclareWindow.baml
+D:\kargo\kargo\obj\Debug\net6.0-windows\View\EnteringWindow.baml
+D:\kargo\kargo\obj\Debug\net6.0-windows\View\MainWindow.baml
+D:\kargo\kargo\obj\Debug\net6.0-windows\View\OrderWindow.baml
+D:\kargo\kargo\obj\Debug\net6.0-windows\View\RegistrationWindow.baml
+D:\kargo\kargo\obj\Debug\net6.0-windows\View\UserMainWindow.baml
+D:\kargo\kargo\obj\Debug\net6.0-windows\View\UserSettingsWindow.baml
+D:\kargo\kargo\obj\Debug\net6.0-windows\kargo.g.resources
+D:\kargo\kargo\obj\Debug\net6.0-windows\kargo.GeneratedMSBuildEditorConfig.editorconfig
+D:\kargo\kargo\obj\Debug\net6.0-windows\kargo.AssemblyInfoInputs.cache
+D:\kargo\kargo\obj\Debug\net6.0-windows\kargo.AssemblyInfo.cs
+D:\kargo\kargo\obj\Debug\net6.0-windows\kargo.csproj.CoreCompileInputs.cache
+D:\kargo\kargo\obj\Debug\net6.0-windows\kargo.csproj.Fody.CopyLocal.cache
+D:\kargo\kargo\obj\Debug\net6.0-windows\kargo.csproj.Fody.RuntimeCopyLocal.cache
+D:\kargo\kargo\obj\Debug\net6.0-windows\kargo.csproj.CopyComplete
+D:\kargo\kargo\obj\Debug\net6.0-windows\kargo.dll
+D:\kargo\kargo\obj\Debug\net6.0-windows\refint\kargo.dll
+D:\kargo\kargo\obj\Debug\net6.0-windows\kargo.pdb
+D:\kargo\kargo\obj\Debug\net6.0-windows\kargo.genruntimeconfig.cache
+D:\kargo\kargo\obj\Debug\net6.0-windows\ref\kargo.dll
